@@ -7,14 +7,14 @@ info:
   description: Get a reference of regions, timezones and date/time/number formats
     and their identifiers.
   version: 1.0.0
-host: api.pingdom.com
-basePath: /
 schemes:
 - http
 produces:
 - application/json
 consumes:
 - application/json
+host: api.pingdom.com
+basePath: /
 paths:
   ? |2-
 

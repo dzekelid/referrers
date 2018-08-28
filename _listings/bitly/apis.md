@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1503-bitly
 x-kinRank: "8"
 x-alexaRank: "737"
 tags: Referrers
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/bitly/apis.md
 specificationVersion: "0.14"
 apis:
@@ -68,6 +68,22 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/bitly/v3userreferrers-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/bitly/v3userreferrers-get-openapi.md
+- name: Bitly User Metrics API - User Referring Domains
+  x-api-slug: v3userreferring-domains-get
+  description: eturns aggregate metrics about the domains referring click traffic
+    to all of the authenticated users Bitlinks. If the user is a master account, or
+    is a subaccount with full_reports permission, the user may choose to view the
+    metrics of any account belonging to the master account.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1503-bitly.jpg
+  humanURL: http://bitly.com
+  baseURL: https://api-ssl.bitly.com//v3
+  tags: Library, Universities, University Library, University In Progress, Stack Network,
+    Technology, SaaS, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/bitly/v3userreferring-domains-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/bitly/v3userreferring-domains-get-openapi.md
 - name: Bitly User Metrics API - User Referring Domains
   x-api-slug: v3userreferring-domains-get
   description: eturns aggregate metrics about the domains referring click traffic

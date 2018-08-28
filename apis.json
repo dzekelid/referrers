@@ -1,0 +1,280 @@
+{
+	"name": "Streadata.io API Gallery - Referrers",
+	"description": "This is a repository of referrers APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/referrers.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://referrers.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "3scale",
+			"x-api-slug": "3scale",
+			"description": "3scales API Management platform gives you the tools you need to take control of your API. Trusted by more customers than any other vendor.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg",
+			"humanURL": "http://3scale.net",
+			"baseURL": "https://su1.3scale.net//",
+			"tags": "Referrers",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/3scale/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SendGrid",
+			"x-api-slug": "sendgrid",
+			"description": "Delivering your transactional and marketing emails through the worlds largest cloud-based email delivery platform. Send with confidence.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/142-sendgrid.jpg",
+			"humanURL": "http://sendgrid.com",
+			"baseURL": "https:///",
+			"tags": "Referrers",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/sendgrid/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Stripe",
+			"x-api-slug": "stripe",
+			"description": "Online payment processing for internet businesses. Stripe is a suite of payment APIs that powers commerce for online businesses of all sizes, including fraud prevention, and subscription management. Use Stripes payment platform to accept and process p...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe.jpg",
+			"humanURL": "https://stripe.com/",
+			"baseURL": "https://api.stripe.com/v1/",
+			"tags": "Referrers",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/stripe/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pingdom",
+			"x-api-slug": "pingdom",
+			"description": "Monitor your websites availability and performance for free with Pingdom and always be the first to know when your website is down. No installation required.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg",
+			"humanURL": "http://www.pingdom.com",
+			"baseURL": "https://api.pingdom.com//",
+			"tags": "Referrers",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/pingdom/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PagerDuty",
+			"x-api-slug": "pagerduty",
+			"description": "See how PagerDuty Digital Operations Management Platform integrates machine data & human intelligence to improve visibility & agility across organizations.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/632-pagerduty.jpg",
+			"humanURL": "http://www.pagerduty.com/",
+			"baseURL": "https:///",
+			"tags": "Referrers",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/pagerduty/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Ambassador",
+			"x-api-slug": "ambassador",
+			"description": "Ambassador is the world-leading referral marketing software, running todays most popular referral programs. Visit us to learn, buy, and get support.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/985-ambassador.jpg",
+			"humanURL": "https://getambassador.com/",
+			"baseURL": "https:///",
+			"tags": "Referrers",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/ambassador/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ReferralCandy",
+			"x-api-slug": "referralcandy",
+			"description": "Our app is designed to help make online store owners more money. It works by making it super easy for sellers to conduct their own customer referral programs.     We take the hassle out of sending out emails, tracking forwards and rewarding referrals b...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1129-referralcandy.jpg",
+			"humanURL": "http://www.referralcandy.com/api/",
+			"baseURL": "https:///",
+			"tags": "Referrers",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/referralcandy/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bitly",
+			"x-api-slug": "bitly",
+			"description": "Get the most out of your social and online marketing efforts. Own, understand and activate your best audience through the power of the link with Bitly Enterprise.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1503-bitly.jpg",
+			"humanURL": "http://bitly.com",
+			"baseURL": "https://api-ssl.bitly.com//v3",
+			"tags": "Referrers",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/bitly/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Kinesis Analytics",
+			"x-api-slug": "aws-kinesis-analytics",
+			"description": "Amazon Kinesis Analytics is the easiest way to process streaming data in real time with standard SQL without having to learn new programming languages or processing frameworks. Amazon Kinesis Analytics enables you to create and run SQL queries on streaming data so that you can gain actionable insights and respond to your business and customer needs promptly.Amazon Kinesis Analytics takes care of everything required to run your queries continuously and scales automatically to match the volume and throughput rate of your incoming data. With Amazon Kinesis Analytics, you only pay for the resources your queries consume. There is no minimum fee or setup cost.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisAnalytics.png",
+			"humanURL": "https://aws.amazon.com/kinesis/analytics/",
+			"baseURL": ":///",
+			"tags": "Referrers",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/aws-kinesis-analytics/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS EC2",
+			"x-api-slug": "aws-ec2",
+			"description": "Amazon Elastic Compute Cloud is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon&rsquo;s proven computing environment. Amazon EC2 reduces the time required to obtain and boot new server instances to minutes, allowing you to quickly scale capacity, both up and down, as your computing requirements change. Amazon EC2 changes the economics of computing by allowing you to pay only for capacity that you actually use. Amazon EC2 provides developers the tools to build failure resilient applications and isolate themselves from common failure scenarios.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png",
+			"humanURL": "https://aws.amazon.com/ec2/",
+			"baseURL": ":///",
+			"tags": "Referrers",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/aws-ec2/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Referrers",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Talkable",
+			"x-api-slug": "talkable",
+			"description": "Talkable Social Referrals helps brands acquire new customers with endorsements from current customers. As the web becomes more person-centric, consumers trust the recommendations of their friends more than traditional advertising. By optimizing for higher conversion rates and identifying social influencers, weve achieved as high as a 58% lift in new sales.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28399-www-talkable-com.jpg",
+			"humanURL": "https://www.talkable.com",
+			"baseURL": "https:///",
+			"tags": "Referrers",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/talkable/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Plentymarkets",
+			"x-api-slug": "plentymarkets",
+			"description": "plentymarkets is an all-in-one e-commerce ERP solution, which combines a comprehensive stock management system with a versatile shop system and effortless multichannel sales. Thanks to comprehensive functions and interfaces that include all steps of the e-commerce value chain, you can use the cloud based software to completely automate all of your e-business processes as well as your companys own individual processes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png",
+			"humanURL": "http://www.plentymarkets.co.uk",
+			"baseURL": "https://example.com//",
+			"tags": "Referrers",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/plentymarkets/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Referrers",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Referrers",
+	"include": [
+		{
+			"name": "3scale",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/3scale/apis.yaml"
+		},
+		{
+			"name": "SendGrid",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/sendgrid/apis.yaml"
+		},
+		{
+			"name": "Stripe",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/stripe/apis.yaml"
+		},
+		{
+			"name": "Pingdom",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/pingdom/apis.yaml"
+		},
+		{
+			"name": "PagerDuty",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/pagerduty/apis.yaml"
+		},
+		{
+			"name": "Ambassador",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/ambassador/apis.yaml"
+		},
+		{
+			"name": "ReferralCandy",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/referralcandy/apis.yaml"
+		},
+		{
+			"name": "Bitly",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/bitly/apis.yaml"
+		},
+		{
+			"name": "AWS Kinesis Analytics",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/aws-kinesis-analytics/apis.yaml"
+		},
+		{
+			"name": "AWS EC2",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/aws-ec2/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "Talkable",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/talkable/apis.yaml"
+		},
+		{
+			"name": "Plentymarkets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/plentymarkets/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}

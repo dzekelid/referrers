@@ -16,11 +16,24 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Referrers
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/aws-ec2/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.dynamodb.api.gallery.streamdata.io

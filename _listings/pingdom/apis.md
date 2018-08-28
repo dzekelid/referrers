@@ -7,11 +7,25 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdo
 x-kinRank: "7"
 x-alexaRank: "5876"
 tags: Referrers
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/pingdom/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Reference API - Get Reference
+  x-api-slug: apiversionreference-get
+  description: Get a reference of regions, timezones and date/time/number formats
+    and their identifiers.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
+  humanURL: http://www.pingdom.com
+  baseURL: https://api.pingdom.com//
+  tags: Monitoring, Performance, SaaS, Technology, internet, Service API, Relative
+    Data, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/pingdom/apiversionreference-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/referrers/master/_listings/pingdom/apiversionreference-get-openapi.md
 - name: Reference API - Get Reference
   x-api-slug: apiversionreference-get
   description: Get a reference of regions, timezones and date/time/number formats
